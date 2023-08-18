@@ -1,0 +1,36 @@
+body{
+    background-color: sienna;
+    font-size: 25px;
+    color: white;
+}
+.css{
+    display: flex;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+button {
+    background-color: #9b7965; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+div#q1, div#q2, div#q3, div#q4, div#q5, div#q6, div#q7, div#q8, div#q9, div#q10, div#q11, div#q12, div#q13, div#q14, div#q15, div#q16, div#q17, div#q18 
+{
+  display: inline-block;
+  border: 1px solid black;
+  width: 15%;
+  height: 235px;
+}
+div.linha
+{
+  padding-left: 75px;
+}
+#alinhar{
+    margin-left: 150px;
+}
