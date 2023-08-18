@@ -34,3 +34,7 @@ div.linha
 #alinhar{
     margin-left: 150px;
 }
+
+div#flex{
+    display: flex;
+}
