@@ -10,7 +10,7 @@ img{
     width: 250px;
     height: 250px;
 }
-button {
+button, a {
     background-color: #9b7965; 
     border: none;
     color: white;
@@ -37,4 +37,16 @@ div.linha
 
 div#flex{
     display: flex;
+}
+#div1{
+    margin-left: 150px;
+}
+#div2{
+    margin-left: 100px;
+}
+textarea, input{
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
